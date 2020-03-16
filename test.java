@@ -1,6 +1,7 @@
 /**
 * This was written by
 * Elliot Siegel
+* and modified by Tim Hickey
 */
 
 public class Test {
